@@ -1,1 +1,3 @@
 Test Git Quick Start demo
+This is me using the nano command to update the txt file
+
